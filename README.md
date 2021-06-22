@@ -9,7 +9,7 @@
 ---
 
 ### 🖼 Image project
-![AtomCalc](Img/AtomCalc.png)
+![AtomCalc](/Img/AtomCalc.png)
 
 ---
 

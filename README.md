@@ -3,13 +3,13 @@
 ## 🗂 Project description
 
 <p>
-	Descrição do projeto
+    The program is nothing more than a numerical calculator. The program performs simple calculations in a practical way.
 </p>
 
 ---
 
 ### 🖼 Image project
-![AtomCalc]()
+![AtomCalc](Img/AtomCalc.png)
 
 ---
 
